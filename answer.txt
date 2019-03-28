@@ -1,0 +1,22 @@
+To Solve Game:
+
+1. Collect flashlight from Statue in Room A
+2. Enter Room B
+3. Check Carpet to collect Key
+4. Check the statue, "Venus de Milo"
+5. Check out Room C
+6. Walk up to the bench
+7. Check the office
+8. Check the desk to your right
+9. Check the bottom drawer. Collect Screwdriver
+10. Check the office
+11. Check out Room C
+12. Walk up to the bench
+13. Check the Painting
+14. Remove 'La Belle Jardiniere'
+15. Walk up to the bench
+16. Walk into Room B
+17. Walk into Room A
+18. Walk up to the window.
+
+

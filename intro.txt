@@ -1,0 +1,23 @@
+*
+HEIST                             by Amy Suzuki
+*
+*
+"Hey! Are you all right?"
+PROMPT
+"Looks like you had a rough fall. 
+You're stuff is all scattered on the ground."
+PROMPT
+"Well you should have a half hour before the guards make their rounds.
+Just grab painting and run back here."
+PROMPT
+"What?! You're asking me which one right now?"
+"It's the painting with Mary and Jesus. The Raphael one."
+PROMPT
+"Probably going to want to find your flashlight first."
+"Oh, and don't forget the paintings are bolted down."
+PROMPT
+"Yeah, I don't need your sass about how unprepared we are for this heist.
+Not my problem. 
+I'm not lifting you out of there until you come back with the painting."
+PROMPT
+Looks like I'm on my own. 

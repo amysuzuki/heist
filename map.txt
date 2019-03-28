@@ -1,0 +1,16 @@
+
+	MAP
+	
+	          *************************
+	 ROOM B > *     p       *    w    *
+	          *                       * < ROOM A
+	          *     s       *         *
+	          *             *    s    *
+	          ****      ***************     o = object
+	          *             *               w = window
+	*********** o         p * <ROOM C       s = statue
+	*    d    *             *               d = desk
+	*c                      *               c = closet
+	*    d    *      p      *               p = painting
+	*************************
+	   ^OFFICE

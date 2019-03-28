@@ -1,0 +1,109 @@
+/0
+emptySpace
+Window
+Room A
+Walk up to the window
+
+/1
+Wall
+East Wall 
+Room A
+
+/2
+hiddenObject
+Statue: "Winged Victory of Samothrace"
+Room A
+Flashlight
+
+/3
+emptySpace
+Room A
+Room A
+Walk into Room A
+
+/4
+darkRoom
+Room B
+
+/5
+Painting
+Painting: 'Mona Lisa'
+Room B
+
+/6
+emptySpace
+Statue: "Venus de Milo"
+Room B
+Check out the Status, "Venus de Milo"
+
+/7
+hiddenObject
+Carpet
+Room B
+Key
+
+/8
+darkRoom
+Room C
+
+/9
+Painting
+Painting: 'The Virgin and Child with St. Anne'
+Room C
+
+/10
+emptySpace
+Bench
+Room C
+Walk up to the bench
+
+/11
+Painting
+Painting: 'La Belle Jardiniere'
+Room C
+
+/12
+lockedRoom
+the Office
+
+/13
+emptySpace
+Top Drawer
+the Office
+Check out the Top Drawer
+
+/14
+hiddenObject
+Bottom Drawer
+the Office
+Pen
+
+/15
+emptySpace
+Desk
+the Office
+Check the desk to your right
+
+/16
+emptySpace
+Desk
+the Office
+Check the desk to your left
+
+/17
+hiddenObject
+Top Drawer
+the Office
+Scissors
+
+/18
+hiddenObject
+Bottom Drawer
+the Office
+Screwdriver
+
+/19
+emptySpace
+Closet
+the Office
+Check the Closet
