@@ -1,11 +1,3 @@
-/************************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: March 16, 2019
-** Description: This file contains the declaration of the 
-** of the game class that will hold all data and run
-** the HEIST game. 
-************************************************************/
 #ifndef GAME_HPP
 #define GAME_HPP
 
