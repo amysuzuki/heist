@@ -1,11 +1,8 @@
-/************************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: March 16, 2019
-** Description: This file contains the declaration of
-** the class Wall, derived from Space, which doesn’t 
-** allow users to enter or pass through. 
-************************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: Wall is a derived class of Space. Walls can never be entered.
+ */
+
 #ifndef WALL_HPP
 #define WALL_HPP
 

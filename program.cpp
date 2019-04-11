@@ -1,10 +1,7 @@
-/************************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: March 16, 2019
-** Description: This file contains the main function that 
-** outputs the game objective and menu to start the game.
-************************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: Main Function that creates the Heist game class. 
+ */
 #include "game.hpp"
 #include "inputs.hpp"
 #include "menu.hpp"

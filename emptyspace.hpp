@@ -1,11 +1,9 @@
-/************************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: March 16, 2019
-** Description: This file contains the declaration of the 
-** class type emptySpace, derived from Space
-**  that holds no items or restriction to enter. 
-************************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: emptySpace is a derived Class of Space; no requirements
+ to be entered, used to connect difference Spaces to each other.
+ */
+
 #ifndef EMPTYSPACE_HPP
 #define EMPTYSPACE_HPP
 

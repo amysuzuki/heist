@@ -1,11 +1,10 @@
-/************************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: March 16, 2019
-** Description: This file contains the functions of
-** the abstract class Space, which other objects are
-** derived off of to create the game environment. 
-************************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: The Space class is an abstract class used to navigate
+ through the game. Each space can be connected to other spaces; each derived
+ space vary in the Items they hold (if any) and their accessibility requirements.
+ */
+
 #include "space.hpp"
 #include <iostream>
 using std::cout;

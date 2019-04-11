@@ -1,11 +1,10 @@
-/************************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: March 16, 2019
-** Description: This file contains the declaration of
-** the Player class that tracks all player location, steps
-** and ItemList (bag)
-************************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: The Player Class stores information of the single player
+ in the game, including their location, total steps they have taken, and
+ Item linked List (bag).
+ */
+
 #ifndef PLAYER_HPP
 #define PLAYER_HPP
 

@@ -1,11 +1,10 @@
-/************************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: March 16, 2019
-** Description: This file contains the declaration of
-** the class Painting, derived from Space, which
-** holds a Painting Item in its space. 
-************************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: Painting is a derived class from Space which begins
+ the game with an Item of type Painting. Players can only retrieve
+ paintings if they carry a "Screwdriver" Item. Players can then replace
+ paiting with any other Item in the game (if their bag is full).
+ */
 
 #ifndef PAINTING_HPP
 #define PAINTING_HPP

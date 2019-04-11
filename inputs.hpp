@@ -1,10 +1,7 @@
-/**********************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: January 25, 2019
-** Description: This header file holds the declaration for 
-** input validators
-**********************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: Functions used to validate user input
+ */
 
 #ifndef INPUTS_HPP
 #define INPUTS_HPP

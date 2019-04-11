@@ -1,10 +1,9 @@
-/************************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: March 16, 2019
-** Description: ItemList is a struct that stores Item
-** class objects in a linked list. 
-************************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: ItemList is a structure used to form a
+ linked list of Items.
+ */
+
 #ifndef ITEMLIST_HPP
 #define ITEMLIST_HPP
 

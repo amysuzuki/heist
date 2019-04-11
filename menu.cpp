@@ -1,10 +1,9 @@
-/**********************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: January 15, 2019
-** Description: The following class creates and stores the
-** prompts for a menu. Users can choose from the menu.
-**********************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: The menu class creates a menu and allows user to make
+ selections from the menu. The menu class should be used for questions
+ with multiple answers. menuYN should be used for Yes/No questions. 
+ */
 
 #include "menu.hpp"
 

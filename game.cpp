@@ -1,14 +1,14 @@
-/************************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: March 16, 2019
-** Description: This file contains the functions of the 
-** used to run the main game (through the game Class)
-************************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: The game class connects all spaces together,
+ and runs the entire game Heist. Game runs at construction.
+ */
+
 #include "game.hpp"
 
 //Consructor
 Game::Game() {
+    
 	//Create Player
 	user = new Player();
 

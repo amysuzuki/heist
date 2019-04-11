@@ -1,11 +1,9 @@
-/************************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: March 16, 2019
-** Description: This file contains the declaration of the class
-** type darkRoom, a derived Space, that requires a flashlight
-** Item to enter. 
-************************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: darkRoom is a derived Class of Space that requires the
+ item "Flashlight" to be entered
+ */
+
 #ifndef DARKROOM_HPP
 #define DARKROOM_HPP
 

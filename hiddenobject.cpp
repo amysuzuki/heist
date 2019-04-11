@@ -1,11 +1,10 @@
-/************************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: March 16, 2019
-** Description: This file contains the functions of the 
-** of the hiddenObject class, a derived object from Space,
-** that contains a hidden Item at the space. 
-************************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: The hiddenObject class is a derived class from
+ Space. hiddenObjects can hold anItem object that a player
+ can retrieve or replace.
+ */
+
 #include "hiddenobject.hpp"
 
 //Constructors

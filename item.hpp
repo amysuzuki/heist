@@ -1,11 +1,9 @@
-/************************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: March 16, 2019
-** Description: This file contains the declaration of the 
-** of the Item class that stores the name and type of 
-** an Item used in the game. 
-************************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: The Item class creates an Object with a name and type.
+ Items can be carried by a player or stored in particular Spaces.
+ */
+
 #ifndef ITEM_HPP
 #define ITEM_HPP
 

@@ -1,10 +1,10 @@
-/**********************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: January 19, 2019
-** Description: The following function declares the class type
-** Menu that allows users to create a menu and make selections.
-***********************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: The menu class creates a menu and allows user to make
+ selections from the menu. The menu class should be used for questions
+ with multiple answers. menuYN should be used for Yes/No questions.
+ */
+
 #ifndef MENU_HPP
 #define MENU_HPP
 

@@ -1,11 +1,9 @@
-/************************************************************
-** Project: Final
-** Author: Amy Suzuki
-** Date: March 16, 2019
-** Description: This file contains the declaration of
-** the class lockedRoom, derived from Space, which
-** requires a key Item to enter. 
-************************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: lockedRoom is a derived class of Space which
+ requires the Item "Key" to be entered.
+ */
+
 #ifndef LOCKEDROOM_HPP
 #define LOCKEDROOM_HPP
 

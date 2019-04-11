@@ -1,13 +1,9 @@
-/**********************************************************
-** Project: Final`
-** Author: Amy Suzuki
-** Date: January 19, 2019
-** Description: The following file holds the function(s)
-** used for input validation.
-***********************************************************/
+/* HEIST
+ Author: Amy Suzuki
+ Description: Functions used to validate user input
+ */
 
 #include "inputs.hpp"
-
 
 //Input validation for integers within a user defined range
 int getInt (int min, int max) {

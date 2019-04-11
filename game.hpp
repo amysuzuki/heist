@@ -1,3 +1,9 @@
+/* HEIST
+ Author: Amy Suzuki
+ Description: The game class connects all spaces together,
+ and runs the entire game Heist. Game runs at construction.
+ */
+
 #ifndef GAME_HPP
 #define GAME_HPP
 
@@ -7,9 +13,10 @@
 #include <fstream>
 #include <queue>
 
+//Player Class
 #include "player.hpp"
 
-//All space types
+//Space Class and Derived Classes
 #include "space.hpp"
 #include "wall.hpp"
 #include "darkroom.hpp"
@@ -18,14 +25,17 @@
 #include "hiddenobject.hpp"
 #include "emptyspace.hpp"
 
+//Helper Functions
 #include "inputs.hpp"
 #include "menu.hpp"
 
-//Import game data from file
+//Import game data from files
 #define SPACES_FILE "space.txt"
 #define CONNECT_FILE "connect.txt"
 #define INTRO_FILE "intro.txt"
 #define MAP_FILE "map.txt"
+
+//Maximum Steps in Game
 #define MAX_STEPS 30
 
 using std::string;
@@ -65,12 +75,13 @@ class Game{
 		Space* makeDark(string&);
 		Space* makePainting(string&, string&);
 		Space* makeLocked(string&);
+    
+        void move();
 
-	public:
+public:
 
 		Game();
 		~Game();
-		void move();
 
 	protected:
 
