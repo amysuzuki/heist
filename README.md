@@ -13,5 +13,10 @@ STL (vectors)
 Linked List
 amongst others. 
 
+Tools:
+Vim
+Terminal (Mac OS)
+XCode
+
 Author: Amy Suzuki
 Last edited: April 11, 2019
